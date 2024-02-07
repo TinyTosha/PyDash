@@ -1,5 +1,7 @@
 Welcome to PyDash!
 
+Forum: https://pydash.forumieren.de/
+
 The programm by: TinyTosha and ChatGPT 3.5
 
 This is a Geometry Dash but on Python
