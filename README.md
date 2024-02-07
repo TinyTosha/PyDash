@@ -10,3 +10,5 @@ Librays for game:
 
 `pip install pygame
 `
+
+Exe Version Author: https://github.com/411Gamer
