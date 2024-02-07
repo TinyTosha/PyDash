@@ -1,0 +1,11 @@
+{
+    "LEVEL_NAME": "My Level",
+    "BACKGROUND_COLOR": [50, 50, 50],
+    "GROUND_COLOR": [100, 100, 100],
+    "objects": [
+        {"type": "spike", "x": 200, "y": 500},
+        {"type": "block", "x": 400, "y": 400},
+        {"type": "block", "x": 600, "y": 300},
+        {"type": "trigger_color", "x": 400, "y": 100, "width": 200, "height": 200, "color": [255, 0, 0]}
+    ]
+}
